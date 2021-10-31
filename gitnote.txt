@@ -1,0 +1,13 @@
+git init
+git add .
+git status
+git commit -m
+git log=>"show commit"
+git log --oneline=>"show commit one line"
+
+git checkout -b  "branch name"=>change branch
+git branch -a => "show branch"
+git merge=>merge branch
+git checkout "id" =>want commit to go
+git branch -D branchname=>"delete branch"
+git pull origin branchname =>"pull github"
